@@ -1,0 +1,24 @@
+
+.ClickAudioImg img{
+   display:flex;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+audio{
+    padding: 10px;
+}
+button{
+    margin-top: 20px;
+}
+.Imagenes{
+    width: 640px;
+    height: 387px;
+}
+.Agenda{
+    margin-top: 40px;
+}
+footer{
+    margin-top: 60px;
+    background-color: rgb(99, 131, 221);
+}
